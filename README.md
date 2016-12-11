@@ -1,6 +1,5 @@
 # smart-irrigation
-Iot device that automates irrigation system in agriculture practices bsed on Humidity and temperature of surroundings
-
+Iot device that automates irrigation system in agriculture practices based on Humidity and temperature (relative humidity) of surrounding field.
 # hardware required
 *raspberry pi
 *temperature and humidity sensot (DH11)
